@@ -2,6 +2,8 @@
 
 这是一个 vite 插件项目，可以将项目打包构建成一个可以直接在浏览器书签栏中运行的 bookmarklet。
 
+[中文](./README.md) | [English](./README_EN.md)
+
 ## ♻️ 提交流程
 
 1. 编写代码
@@ -13,6 +15,7 @@
 ## 📦 模块
 
 插件本体: [@xiaohuohumax/vite-plugin-bookmarklet](./packages/vite-plugin-bookmarklet/README.md)
+快速创建: [@xiaohuohumax/create-bookmarklet](./packages/create-bookmarklet/README.md)
 
 ## 📝 更新日志
 

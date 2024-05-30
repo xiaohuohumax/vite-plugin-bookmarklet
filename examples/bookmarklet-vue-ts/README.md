@@ -1,4 +1,4 @@
-# Vite + Vue + Typescript + Bookmarklet Template
+# Vite + Vue + Typescript + Bookmarklet Template Example
 
 ## 📖 Plugin doc
 

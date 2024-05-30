@@ -1,4 +1,4 @@
-# Vite + TypeScript + Bookmarklet Template
+# Vite + TypeScript + Bookmarklet Template Example
 
 ## 📖 Plugin doc
 
