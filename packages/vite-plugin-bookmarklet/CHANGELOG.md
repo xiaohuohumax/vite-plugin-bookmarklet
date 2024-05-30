@@ -1,5 +1,11 @@
 # @xiaohuohumax/vite-plugin-bookmarklet
 
+## 1.0.1
+
+### Patch Changes
+
+- [`82af836`](https://github.com/xiaohuohumax/vite-plugin-bookmarklet/commit/82af836beabec752ee2291f85ad7cd9c7c2910e9) Thanks [@xiaohuohumax](https://github.com/xiaohuohumax)! - fixed action
+
 ## 1.0.0
 
 ### Major Changes

@@ -1,6 +1,6 @@
 {
   "name": "@xiaohuohumax/vite-plugin-bookmarklet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A vite plugin for generating bookmarklet",
   "type": "module",
   "scripts": {
