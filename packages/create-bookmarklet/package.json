@@ -1,6 +1,6 @@
 {
   "name": "@xiaohuohumax/create-bookmarklet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "create a bookmarklet for vite project",
   "type": "module",
   "scripts": {
