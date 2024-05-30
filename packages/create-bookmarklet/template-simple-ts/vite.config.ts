@@ -6,6 +6,7 @@ export default defineConfig({
   plugins: [
     bookmarklet({
       entry: 'src/main.ts',
+      bookmarkletFileName: 'index.html'
     })
   ]
 })
