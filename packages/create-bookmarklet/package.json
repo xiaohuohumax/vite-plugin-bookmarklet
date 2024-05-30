@@ -1,0 +1,43 @@
+{
+  "name": "@xiaohuohumax/create-bookmarklet",
+  "version": "0.0.0",
+  "description": "create a bookmarklet for vite project",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [
+    "vite-plugin",
+    "bookmarklet"
+  ],
+  "author": {
+    "name": "xiaohuohumax",
+    "url": "https://github.com/xiaohuohumax"
+  },
+  "homepage": "https://github.com/xiaohuohumax/vite-plugin-bookmarklet/tree/main/packages/create-bookmarklet#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaohuohumax/vite-plugin-bookmarklet.git",
+    "directory": "packages/create-bookmarklet"
+  },
+  "bin": {
+    "create-bookmarklet": "index.mjs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mime-types": "^2.1.4",
+    "@types/node": "^20.12.13",
+    "@types/prompts": "^2.4.9",
+    "vite": "^5.2.12"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "mime-types": "^2.1.35",
+    "prompts": "^2.4.2"
+  },
+  "files": [
+    "dist",
+    "*.mjs",
+    "template-*"
+  ]
+}
