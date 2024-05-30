@@ -1,5 +1,11 @@
 # @xiaohuohumax/create-bookmarklet
 
+## 1.0.1
+
+### Patch Changes
+
+- [`710ff8c`](https://github.com/xiaohuohumax/vite-plugin-bookmarklet/commit/710ff8c3a8c2880bb0c6e360cdc7464f76cdb89a) Thanks [@xiaohuohumax](https://github.com/xiaohuohumax)! - fiexd template logo link error
+
 ## 1.0.0
 
 ### Major Changes
