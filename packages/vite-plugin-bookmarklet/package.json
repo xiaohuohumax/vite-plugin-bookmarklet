@@ -1,0 +1,40 @@
+{
+  "name": "@xiaohuohumax/vite-plugin-bookmarklet",
+  "version": "0.0.0",
+  "description": "A vite plugin for generating bookmarklet",
+  "type": "module",
+  "scripts": {
+    "build": "vite build && tsc"
+  },
+  "keywords": [
+    "vite-plugin",
+    "bookmarklet"
+  ],
+  "author": {
+    "name": "xiaohuohumax",
+    "url": "https://github.com/xiaohuohumax"
+  },
+  "homepage": "https://github.com/xiaohuohumax/vite-plugin-bookmarklet/tree/main/packages/vite-plugin-bookmarklet#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaohuohumax/vite-plugin-bookmarklet.git",
+    "directory": "packages/vite-plugin-bookmarklet"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mime-types": "^2.1.4",
+    "@types/node": "^20.12.13",
+    "vite": "^5.2.12",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "mime-types": "^2.1.35",
+    "@xiaohuohumax/bookmark": "^2.1.1"
+  },
+  "main": "./dist/index.js",
+  "module": "./dist/index.cjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ]
+}
