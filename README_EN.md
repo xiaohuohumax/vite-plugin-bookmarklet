@@ -14,8 +14,8 @@ This is a vite plugin project, which can package the project into a bookmarklet 
 
 ## 📦 Modules
 
-Plugin Core: [@xiaohuohumax/vite-plugin-bookmarklet](./packages/vite-plugin-bookmarklet/README.md)
-Quick Create: [@xiaohuohumax/create-bookmarklet](./packages/create-bookmarklet/README.md)
++ Plugin Core: [@xiaohuohumax/vite-plugin-bookmarklet](./packages/vite-plugin-bookmarklet/README.md)
++ Quick Create: [@xiaohuohumax/create-bookmarklet](./packages/create-bookmarklet/README.md)
 
 ## 📝 Changelog
 

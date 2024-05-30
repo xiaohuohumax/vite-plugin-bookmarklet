@@ -14,8 +14,8 @@
 
 ## 📦 模块
 
-插件本体: [@xiaohuohumax/vite-plugin-bookmarklet](./packages/vite-plugin-bookmarklet/README.md)
-快速创建: [@xiaohuohumax/create-bookmarklet](./packages/create-bookmarklet/README.md)
++ 插件本体: [@xiaohuohumax/vite-plugin-bookmarklet](./packages/vite-plugin-bookmarklet/README.md)
++ 快速创建: [@xiaohuohumax/create-bookmarklet](./packages/create-bookmarklet/README.md)
 
 ## 📝 更新日志
 
