@@ -1,5 +1,11 @@
 # bookmarklet-simple-ts
 
+## 0.1.0
+
+### Minor Changes
+
+- add template, banner
+
 ## 0.0.1
 
 ### Patch Changes

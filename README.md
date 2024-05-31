@@ -19,7 +19,14 @@
 
 ## 📝 更新日志
 
-[CHANGELOG.md](CHANGELOG.md)
++ 插件本体: [CHANGELOG.md](./packages/vite-plugin-bookmarklet/CHANGELOG.md)
++ 快速创建: [CHANGELOG.md](./packages/create-bookmarklet/CHANGELOG.md)
+
+## 🌈 示例
+
++ [react-ts](./examples/bookmarklet-react-ts/README.md)
++ [vue-ts](./examples/bookmarklet-vue-ts/README.md)
++ [simple-ts](./examples/bookmarklet-simple-ts/README.md)
 
 ## 🎉 最后
 

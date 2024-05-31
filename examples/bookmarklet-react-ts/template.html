@@ -1,0 +1,63 @@
+<!DOCTYPE NETSCAPE-Bookmark-file-1>
+<!-- This is an automatically generated file.
+     It will be read and overwritten.
+     DO NOT EDIT! -->
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<style>
+  * {
+    padding: 0;
+    margin: 0;
+  }
+
+  body {
+    padding: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #242424;
+    color: #eee;
+    font-size: 20px;
+  }
+
+  dl>dt:not(:has(h3[personal_toolbar_folder="true"])) {
+    margin-left: 1.25em;
+    padding: .25em 0;
+  }
+
+  dt>h3 {
+    padding-bottom: .25em;
+  }
+
+  a {
+    font-weight: 500;
+    text-decoration: none;
+    color: #eee;
+  }
+
+  a:hover {
+    color: #535bf2;
+  }
+
+  i {
+    display: inline-block;
+    width: 1.1em;
+    height: 1.1em;
+    margin-right: .25em;
+    vertical-align: middle;
+  }
+</style>
+<TITLE>Bookmarklet</TITLE>
+<H1>Bookmarklet</H1>
+{{bookmark}}
+<script>
+  const links = document.querySelectorAll("dt > a");
+  links.forEach((element) => {
+    const i = document.createElement("i");
+    const icon = element.getAttribute("icon")?.trim();
+    if (icon) {
+      i.style.background = `url(${icon}) no-repeat 0 0 / cover`;
+    }
+    element.prepend(i);
+  });
+</script>

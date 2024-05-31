@@ -19,7 +19,14 @@ This is a vite plugin project, which can package the project into a bookmarklet 
 
 ## 📝 Changelog
 
-[CHANGELOG.md](CHANGELOG.md)
++ Plugin Core: [CHANGELOG.md](./packages/vite-plugin-bookmarklet/CHANGELOG.md)
++ Quick Create: [CHANGELOG.md](./packages/create-bookmarklet/CHANGELOG.md)
+
+## 🌈 Examples
+
++ [react-ts](./examples/bookmarklet-react-ts/README.md)
++ [vue-ts](./examples/bookmarklet-vue-ts/README.md)
++ [simple-ts](./examples/bookmarklet-simple-ts/README.md)
 
 ## 🎉 Lastly
 
